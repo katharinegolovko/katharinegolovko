@@ -3,7 +3,7 @@
 - I am a QA Engineer from Minsk with 4+ years' experience
 - currently working with both Manual&Automation tasks
 
-### Languages and tools
+### Languages and tools:
 
 <code><img height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"></code>
 <code><img height="30" src="https://starchenkov.pro/qa-guru/img/skills/JUnit5.svg"></code>
@@ -14,9 +14,10 @@
 
 
 
-📫 How to reach me: https://www.linkedin.com/in/ekaterina-golovko/
+### How to reach me: 
+- Email: katharinegolovko@gmail.com
+- LinkedIn: https://www.linkedin.com/in/ekaterina-golovko/
 
-[![Kate's GitHub stats](https://github-readme-stats.vercel.app/api?username=katharinegolovko&hide=stars,contribs, issues&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
